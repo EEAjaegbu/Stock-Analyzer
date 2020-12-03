@@ -159,15 +159,18 @@ except:
     #plt.legend()
     #st.pyplot(fig1)
     
-if st.sidebar.button("Developer"):
+if st.sidebar.button("Developers"):
     st.sidebar.write("""
     Name:E E Ajaegbu
+    Name:Shyambhu Mukherjee[minor helps]
     """)
     st.sidebar.write("""
     gmail: ajaegbu35@gmail.com
+    gmail: shyambhu20@gmail.com
     """)
     st.sidebar.write("""
     github: https://github.com/EEAjaegbu
+    github: https://github.com/shyamcody
     """)
 
 
