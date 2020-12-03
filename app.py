@@ -150,7 +150,7 @@ except:
     st.write("""
              The ticker you entered is invalid.
 
-             If valid, Consider Using a more recent start date for the Ticker you are trying to Analyze(e.g 2019/01/01)
+             If valid, Consider Using a more recent start date for the Ticker you are trying to Analyze(e.g 2019/01/01) to View the Beta, Value at Risk and Alpha Value of the stock.
              """)    
     
     # In[107]:
