@@ -168,6 +168,8 @@ if st.sidebar.button("Developers"):
     """)
     st.sidebar.write("""
     gmail: ajaegbu35@gmail.com
+    """)
+    st.sidebar.write("""
     gmail: shyambhu20@gmail.com
     """)
     st.sidebar.write("""
