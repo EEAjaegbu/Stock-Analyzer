@@ -162,7 +162,9 @@ except:
 if st.sidebar.button("Developers"):
     st.sidebar.write("""
     Name:E E Ajaegbu
-    Name:Shyambhu Mukherjee[minor helps]
+    """)
+    st.sidebar.write("""
+    Name:Shyambhu Mukherjee[minor fixes]
     """)
     st.sidebar.write("""
     gmail: ajaegbu35@gmail.com
